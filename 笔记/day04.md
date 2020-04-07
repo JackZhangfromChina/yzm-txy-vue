@@ -108,7 +108,7 @@ awesome-vue有很多插件
         方式1：通过this.$store访问
         方式2：通过mapState、mapGetters、mapActions访问，vuex提供了两个方法：
             mapState    获取state
-            mapGetters  获取getters
+            mapGetters  获取getters    可以更灵活的获取展示数据
             mapActions  获取actions
 
 ### 3. 分模块组织Vuex          
